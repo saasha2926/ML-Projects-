@@ -4,3 +4,4 @@ This repository  consists of ML projects for beginners.
 2. Energy Consumption prediction using Linear regression
 3. Heart Disease Prediction using Logistic Regression
 4. Loan Approval Prediction using Logistic Regression
+5. 5.Spam mail detection using Decision Tree classifier
