@@ -7,4 +7,6 @@ This repository  consists of ML projects for beginners.
 5. 5.Spam mail detection using Decision Tree classifier
 6. Breast cancer severity prediction using SVC { hyperparameter tuning using GridSearchCV}
 7. Prostate cancer prediction using K-Nearest Neighbor Algorithm
-8.Spam mail classification using multinomial naive bayes
+8. Spam Mail Classification using multinomial naive bayes
+9. Credit Card Fraud Detection using Random Forest Classifier
+
