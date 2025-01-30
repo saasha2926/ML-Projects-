@@ -9,4 +9,4 @@ This repository  consists of ML projects for beginners.
 7. Prostate cancer prediction using K-Nearest Neighbor Algorithm
 8. Spam Mail Classification using multinomial naive bayes
 9. Credit Card Fraud Detection using Random Forest Classifier
-
+10. Calorie Burnt Prediction and comparing Linear regression, Lasso, Ridge,XGBoost Regressor and Random Forest Regressor
